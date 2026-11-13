@@ -15,11 +15,11 @@
 ## 🛠️ Stack & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,php,spring,react,nextjs,nestjs,postgres,prisma,tailwind,vercel,git&theme=dark" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,php,spring,react,angular,vue,nextjs,nestjs,postgres,prisma,tailwind,vercel,git&theme=dark" alt="Tech stack"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React_%C2%B7_Next.js_%C2%B7_TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Frontend-React_%C2%B7_Angular_%C2%B7_Vue_%C2%B7_Next.js_%C2%B7_TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Backend-NestJS_%C2%B7_Spring_%C2%B7_PHP-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-PostgreSQL_%C2%B7_Prisma-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud-Vercel_%C2%B7_Neon-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
