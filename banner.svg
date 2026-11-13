@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0a1e"/>
+      <stop offset="55%" stop-color="#1a1033"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" fill="url(#bg)"/>
+  <circle cx="780" cy="30" r="140" fill="#7c3aed" opacity="0.14"/>
+  <circle cx="80" cy="200" r="120" fill="#3b82f6" opacity="0.10"/>
+  <circle cx="450" cy="110" r="200" fill="none" stroke="#8b5cf6" stroke-opacity="0.12" stroke-width="1.5"/>
+  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#txt)">VICTOR LIMA</text>
+  <text x="450" y="148" text-anchor="middle" font-family="Consolas, monospace" font-size="19" fill="#94a3b8" letter-spacing="6">FULL STACK DEVELOPER</text>
+  <text x="450" y="182" text-anchor="middle" font-family="Consolas, monospace" font-size="14" fill="#64748b">React · Next.js · NestJS · Java · Spring · PHP</text>
+</svg>

@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+V%C3%ADctor+%F0%9F%91%8B;Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+NestJS;Java+%C2%B7+Spring+%C2%B7+PHP" alt="Typing SVG" />
+<a href="https://github.com/NeilLima">
+  <img src="banner.svg" alt="Victor Lima — Full Stack Developer" width="900"/>
+</a>
 
 <br/>
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=NeilLima.NeilLima)](https://github.com/NeilLima)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=NeilLima.NeilLima&style=for-the-badge&color=1a1b27)](https://github.com/NeilLima)
 
 </div>
 
@@ -13,18 +15,14 @@
 ## 🛠️ Stack & Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,php,spring,react,nextjs,nestjs,postgres,prisma,tailwind,vercel,git&theme=dark" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React_%C2%B7_Next.js_%C2%B7_TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Backend-NestJS_%C2%B7_Spring_%C2%B7_PHP-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL_%C2%B7_Prisma-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-Vercel_%C2%B7_Neon-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
