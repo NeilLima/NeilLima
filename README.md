@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=NeilLima.NeilLima&style=for-the-badge&color=1a1b27)](https://github.com/NeilLima)
+[![Visitas ao perfil](https://komarev.com/ghpvc/?username=NeilLima&style=for-the-badge&color=1a1b27&label=Visitas)](https://github.com/NeilLima)
 
 </div>
 
@@ -63,7 +63,7 @@ Quadro de tarefas com drag & drop, equipes, checklist, comentários e anexos.
 `Next.js` `NestJS` `TypeScript` `Prisma`
 
 [![Demo](https://img.shields.io/badge/Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://kanban-frontend-roan.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NeilLima/kanban)
+[![Repo](https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NeilLima/kanban)
 
     </td>
   </tr>
@@ -76,7 +76,7 @@ Gestão financeira pessoal — receitas, despesas, cartões, metas e relatórios
 `Next.js` `NestJS` `PostgreSQL`
 
 [![Demo](https://img.shields.io/badge/Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://lumen-frontend-gold.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NeilLima/lumen)
+[![Repo](https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NeilLima/lumen)
 
     </td>
     <td width="50%" valign="top">
@@ -87,7 +87,7 @@ Este portfólio — projetos, habilidades, certificados e contato.
 `React` `Styled-Components`
 
 [![Demo](https://img.shields.io/badge/Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-theta-silk-pr5kr84b4j.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NeilLima/portfolio)
+[![Repo](https://img.shields.io/badge/C%C3%B3digo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NeilLima/portfolio)
 
     </td>
   </tr>
